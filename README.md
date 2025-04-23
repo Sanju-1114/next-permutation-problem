@@ -44,6 +44,7 @@ The algorithm follows these steps:
    ```bash
    ./next_permutation
    ```
+   
 4. **Example Output**:
    For the input `nums = [1, 2, 3]`, the output will be:
    ```
